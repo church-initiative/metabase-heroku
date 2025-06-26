@@ -1,0 +1,12 @@
+# .slugignore
+*.md
+*.sh
+docs/
+tests/
+bin/
+build/
+.gradle/
+.git/
+*.iml
+.idea/
+*.jar
