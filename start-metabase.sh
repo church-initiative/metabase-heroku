@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Specify the Metabase version
-METABASE_VERSION=v0.55.4
+METABASE_VERSION=v0.52.9
 
 # Download Metabase JAR if it doesn't exist
 if [ ! -f metabase.jar ]; then
