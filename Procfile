@@ -1,1 +1,1 @@
-web: bash start-metabase.sh
+web: bash ./bin/start-metabase.sh
