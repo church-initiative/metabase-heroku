@@ -10,4 +10,3 @@ build/
 *.iml
 .idea/
 *.jar
-java.tar.gz
