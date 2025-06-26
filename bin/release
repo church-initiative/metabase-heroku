@@ -1,0 +1,6 @@
+#!/bin/sh
+cat <<EOF
+---
+default_process_types:
+  web: java -jar metabase.jar
+EOF

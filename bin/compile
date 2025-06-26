@@ -1,0 +1,9 @@
+#!/bin/bash
+BUILD_DIR=$1
+CACHE_DIR=$2
+
+METABASE_VERSION=v0.52.9
+JAR_URL="https://downloads.metabase.com/${METABASE_VERSION}/metabase.jar"
+
+echo "-----> Downloading Metabase $METABASE_VERSION..."
+curl -L -o "$BUILD_DIR/metabase.jar" "$JAR_URL"

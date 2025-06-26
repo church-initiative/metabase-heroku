@@ -1,2 +1,2 @@
-web: ./start-metabase.sh
+web: java -jar metabase.jar
 
