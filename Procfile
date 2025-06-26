@@ -1,1 +1,1 @@
-web: java -DMB_JETTY_PORT=$PORT -jar metabase.jar
+web: /app/run_metabase.sh
