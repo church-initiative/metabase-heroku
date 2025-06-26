@@ -1,0 +1,5 @@
+// package.json
+{
+  "name": "metabase-heroku-runtime",
+  "version": "1.0.0"
+}
